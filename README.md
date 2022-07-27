@@ -1,3 +1,3 @@
 # AI Snippets
 
-Miscellaneous AI/machine learning/deep leaning code, notebooks and POCs
+Miscellaneous AI/machine learning/deep learning code, notebooks and POCs
